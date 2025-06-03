@@ -16,4 +16,3 @@ streamlit run app.py
 
 ## Sample Data
 Use the `data/sample_leads.csv` file to test the tool.
-"""
